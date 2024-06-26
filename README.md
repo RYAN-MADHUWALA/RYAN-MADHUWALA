@@ -1,5 +1,3 @@
-### ABOUT ME
-
 Hi, I'm Ryan Madhuwala, an AI enthusiast and the mind behind RAW (Ryan's Artificial Wing).
 
 Check out my coding projects and endeavors on my GitHub: [RAW-si18](https://github.com/RAW-si18).
