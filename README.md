@@ -4,7 +4,7 @@ I'm Ryan Madhuwala, an ai enthusiast and official name behind RAW i.e. Ryan's Ar
 
 <h3>IMPORTANT</h3>
 
-Visit my coding github account 1[RAW-si18](https://github.com/RAW-si18) for my coding skills and endevaour
+Visit my coding github account [RAW-si18](https://github.com/RAW-si18) for my coding skills and endevaour
 
 <h3>MY FRIEND</h3>
 has a message for you...
